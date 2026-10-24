@@ -1,4 +1,5 @@
 # Onsaemigol (com.onsaemigol.c2f) - ads: Unity Ads (Unity LevelPlay) only. AdMob removed 2026-10-22.
+# Haeryeong: Last Light (com.onsaemigol.haeryeong) - same Unity organization, Unity LevelPlay rewarded ads only (2026-10-24).
 # Authorized sellers copied from Unity Monetization dashboard > Settings > Organization > App-ads.txt (2026-10-22).
 OWNERDOMAIN=jeoungsung12.github.io
 unity.com, 147078400, DIRECT, 96cabb5fbdde37a7
